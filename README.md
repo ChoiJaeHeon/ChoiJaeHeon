@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=JaeHeon%20Choi&fontAlign=70&fontAlignY=40&color=gradient&animation=twinkling)
 
-# 😄 I'm a talking potato....
+# 😀 나는 말하는 감자야..
 
 <p align="center">
 	<a href="https://solved.ac/jh0520" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jh0520" alt="solved.ac profile"/></a>&nbsp
@@ -11,9 +11,6 @@
 
 
   김현준은 신이야
-  
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=200&fontAlign=70&fontAlignY=40&color=gradient&animation=twinkling)
-
 </div>
 
 <!--
