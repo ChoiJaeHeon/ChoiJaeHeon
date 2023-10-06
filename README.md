@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=JaeHeon%20Choi&fontAlign=70&fontAlignY=40&color=gradient&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=JaeHeon%20CHOI&fontAlign=70&fontAlignY=40&color=gradient&animation=twinkling)
 
 # 😀 나는 말하는 감자야..
 
