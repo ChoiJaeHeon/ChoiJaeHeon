@@ -10,7 +10,8 @@
 </p>
 
 
-Hyun Jun KIM is 'God'
+<p>
+	<a = href="https://github.com/Tolerblanc"> Hyun Jun KIM is 'God'</a>
 
 </div>
 
