@@ -11,7 +11,8 @@
 
 
 <p>
-	<a = href="https://github.com/Tolerblanc"> Hyun Jun KIM is 'God'</a>
+	<a = href="https://github.com/Tolerblanc"> Hyun Jun KIM</a> is God
+</p>
 
 </div>
 
