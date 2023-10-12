@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=JaeHeon%20CHOI&fontAlign=70&fontAlignY=40&color=gradient&animation=twinkling)
 
-# 😀 나는 말하는 감자야..
+# 😀 Hi I'm talking potato
 
 <p align="center">
 	<a href="https://solved.ac/jh0520" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jh0520" alt="solved.ac profile"/></a>&nbsp
@@ -10,7 +10,8 @@
 </p>
 
 
-  김현준은 신이야
+Hyun Jun KIM is 'God'
+
 </div>
 
 <!--
