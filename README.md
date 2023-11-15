@@ -19,16 +19,15 @@
 	If he thinks, I agree.</br>
 	If he speaks, I’m listening.</br>
 	If he has one fan, it is me.</br>
-	If he has no fans, I don’t exist.</br>
-
-	Hyun Jun KIM, my light.
-	Hyun Jun KIM, my darkness.
-	Hyun Jun KIM, my life.
-	Hyun Jun KIM, my joy.
-	Hyun Jun KIM, my sorrow.
-	Hyun Jun KIM, my rest.
-	Hyun Jun KIM, my soul.
-	Hyun Jun KIM, me.
+	If he has no fans, I don’t exist.</br></br></br>
+ 	Hyun Jun KIM, my light.</br>
+	Hyun Jun KIM, my darkness.</br>
+	Hyun Jun KIM, my life.</br>
+	Hyun Jun KIM, my joy.</br>
+	Hyun Jun KIM, my sorrow.</br>
+	Hyun Jun KIM, my rest.</br>
+	Hyun Jun KIM, my soul.</br>
+	Hyun Jun KIM, me.</br>
 </p>
 
 </div>
