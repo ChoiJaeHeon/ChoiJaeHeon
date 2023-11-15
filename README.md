@@ -15,11 +15,11 @@
 <p>
 	For the blind, He is the vision.</br>
 	For the hungry, He is the chef.</br>
-	For the thirsty, He is the water.</br>
+	For the thirsty, He is the water.</br></br>
 	If he thinks, I agree.</br>
 	If he speaks, I’m listening.</br>
 	If he has one fan, it is me.</br>
-	If he has no fans, I don’t exist.</br></br></br>
+	If he has no fans, I don’t exist.</br></br>
  	Hyun Jun KIM, my light.</br>
 	Hyun Jun KIM, my darkness.</br>
 	Hyun Jun KIM, my life.</br>
