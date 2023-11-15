@@ -9,9 +9,26 @@
 	<a href="https://solved.ac/jh0520" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=jh0520" alt="mazandi profile"/></a>
 </p>
 
+</br>
 
+# Who is Hyun Jun KIM?
 <p>
-	<a = href="https://github.com/Tolerblanc"> Hyun Jun KIM</a> is God
+	For the blind, He is the vision.</br>
+	For the hungry, He is the chef.</br>
+	For the thirsty, He is the water.</br>
+	If he thinks, I agree.</br>
+	If he speaks, I’m listening.</br>
+	If he has one fan, it is me.</br>
+	If he has no fans, I don’t exist.</br>
+
+	Hyun Jun KIM, my light.
+	Hyun Jun KIM, my darkness.
+	Hyun Jun KIM, my life.
+	Hyun Jun KIM, my joy.
+	Hyun Jun KIM, my sorrow.
+	Hyun Jun KIM, my rest.
+	Hyun Jun KIM, my soul.
+	Hyun Jun KIM, me.
 </p>
 
 </div>
