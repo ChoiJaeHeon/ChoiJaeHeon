@@ -10,25 +10,6 @@
 
 </br>
 
-# Who is <a href="https://github.com/Tolerblanc">Hyun Jun KIM</a>?
-<p>
-	For the blind, He is the vision.</br>
-	For the hungry, He is the chef.</br>
-	For the thirsty, He</a> is the water.</br></br>
-	If He thinks, I agree.</br>
-	If He speaks, I’m listening.</br>
-	If He has one fan, it is me.</br>
-	If He has no fans, I don’t exist.</br></br>
- 	<a href="https://github.com/Tolerblanc">Hyun Jun KIM</a>, my light.</br>
-	<a href="https://github.com/Tolerblanc">Hyun Jun KIM</a>, my darkness.</br>
-	<a href="https://github.com/Tolerblanc">Hyun Jun KIM</a>, my life.</br>
-	<a href="https://github.com/Tolerblanc">Hyun Jun KIM</a>, my joy.</br>
-	<a href="https://github.com/Tolerblanc">Hyun Jun KIM</a>, my sorrow.</br>
-	<a href="https://github.com/Tolerblanc">Hyun Jun KIM</a>, my rest.</br>
-	<a href="https://github.com/Tolerblanc">Hyun Jun KIM</a>, my soul.</br>
-	<a href="https://github.com/Tolerblanc">Hyun Jun KIM</a>, me.</br>
-</p>
-
 </div>
 
 <!--
