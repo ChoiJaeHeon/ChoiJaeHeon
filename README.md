@@ -10,6 +10,8 @@
 
 </br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiJaeHeon&layout=compact&theme=dark)
+
 </div>
 
 <!--
