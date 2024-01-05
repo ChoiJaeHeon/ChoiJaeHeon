@@ -12,8 +12,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiJaeHeon&layout=compact&theme=dark)
 
-
 </br>
+
+## 💬 Blog
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Daily-Stack&theme={insert_theme})](https://daily-stack.tistory.com/)
 
