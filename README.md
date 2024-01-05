@@ -15,7 +15,7 @@
 
 </br>
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Daily-Stack&theme={insert_theme})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Daily-Stack&theme={insert_theme})](https://daily-stack.tistory.com/)
 
 </div>
 
