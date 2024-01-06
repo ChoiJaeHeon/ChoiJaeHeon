@@ -14,7 +14,7 @@
 
 ## 💬 Blog
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Daily-Stack&theme={insert_theme})](https://daily-stack.tistory.com/)
+   [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Daily-Stack&theme={insert_theme})](https://daily-stack.tistory.com/)
 
 </div>
 
